@@ -58,7 +58,7 @@ jobs:
 
       - name: Compile Repository Plugins
         run: |
-          mkdir plugins
+          mkdir addons/amxmodx/plugins
           cp amxmodx/scripting/compiled/*.amxx addons/amxmodx/plugins
           rm -rf amxmodx
 
