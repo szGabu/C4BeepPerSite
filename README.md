@@ -1,7 +1,7 @@
 # Different C4 Sound Per Site
 
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
-![AMX Mod X](https://img.shields.io/badge/AMXX%201.8.2-Required-orange)
+![AMX Mod X](https://img.shields.io/badge/AMXX%201.8.2-Compatible-orange)
 
 A Counter-Strike plugin that changes the C4 beeping sound based on which bomb site the explosive was planted.
 
